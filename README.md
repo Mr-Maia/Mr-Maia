@@ -85,7 +85,7 @@
  
 
 <br><br>
-##My Socials
+## My Socials
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/joão-miguel-maia"><img src="https://raw.githubusercontent.com/joaoTHEmaia/StartUP/master/ICONS/LINKDIN_Icon.png" alt="darkwood" width="50" height="50"/></a>
