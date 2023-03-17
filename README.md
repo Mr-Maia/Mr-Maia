@@ -87,6 +87,6 @@
 <br><br>
 <p align="center">
   <a href="linkedin.com/in/joão-miguel-maia"><img src="https://raw.githubusercontent.com/joaoTHEmaia/StartUP/master/ICONS/LINKDIN_Icon.png" alt="darkwood" width="50" height="50"/></a>
-  <a href= "linkedin.com/in/joão-miguel-maia"https://raw.githubusercontent.com/joaoTHEmaia/StartUP/master/ICONS/INSTAGRAM_Icon.png" width="50" height="50"/></a>
+  <a href= "linkedin.com/in/joão-miguel-maia"><img src="https://raw.githubusercontent.com/joaoTHEmaia/StartUP/master/ICONS/INSTAGRAM_Icon.png" width="50" height="50"/></a>
   <a href="mailto:joaomiguelmaia@tecnico.ulisboa.pt"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email" width="50" height="50"/></a>
 </p>
