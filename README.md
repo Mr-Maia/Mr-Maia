@@ -1,8 +1,8 @@
-<div style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/joaoTHEmaia/The_buning/main/ICONS/messagif.gif?token=GHSAT0AAAAAACAA4EO5BE57QC5S6AUGGEXGZARCV3Q" width="1024" height="512">
-</div>
+ 
+  </head>
+    <h3 align="center">HELLO WORLD!</h3>
 
-
+<br>
 <h3 align="center">Student at @ <a href='https://tecnico.ulisboa.pt/en/'>Instituto Superior Técnico</a> <br> Telecommunications and Informatics Engineering <br> Software Enthusiast</h3>
 
 <br><br>
