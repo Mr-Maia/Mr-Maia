@@ -83,8 +83,14 @@
  ![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
  
+ <br><br>
 
-<br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoTHEmaia&show_icons=true&theme=dark&locale=en&layout=compact" alt="joaoTHEmaia" /></p>
+<br><br><br><br><br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoTHEmaia&label=Profile%20views&color=0e75b6&style=flat" alt="joaoTHEmaia" /> </p>
+
+<br>
 ## My Socials
 <br>
 <p align="center">
