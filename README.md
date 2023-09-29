@@ -85,16 +85,16 @@
  <br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoTHEmaia&show_icons=true&theme=dark&locale=en&layout=compact" alt="joaoTHEmaia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Maia&show_icons=true&theme=dark&locale=en&layout=compact" alt="Mr-Maia" /></p>
 <br><br><br><br><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoTHEmaia&label=Profile%20views&color=0e75b6&style=flat" alt="joaoTHEmaia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Maia&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Maia" /> </p>
 
 <br>
 
 ## My Socials
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/joão-miguel-maia"><img src="https://raw.githubusercontent.com/joaoTHEmaia/joaoTHEmaia/main/ICONS/LINKDIN_Icon.png" alt="darkwood" width="50" height="50"/></a>
-  <a href= "https://www.linkedin.com/in/joão-miguel-maia"><img src="https://raw.githubusercontent.com/joaoTHEmaia/joaoTHEmaia/main/ICONS/INSTAGRAM_Icon.png" width="50" height="50"/></a>
+  <a href="https://www.linkedin.com/in/joão-miguel-maia"><img src="https://raw.githubusercontent.com/Mr-Maia/Mr-Maia/main/ICONS/LINKDIN_Icon.png" alt="darkwood" width="50" height="50"/></a>
+  <a href= "https://www.linkedin.com/in/joão-miguel-maia"><img src="https://raw.githubusercontent.com/Mr-Maia/Mr-Maia/main/ICONS/INSTAGRAM_Icon.png" width="50" height="50"/></a>
   <a href="mailto:joaomiguelmaia@tecnico.ulisboa.pt"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email" width="50" height="50"/></a>
 </p>
